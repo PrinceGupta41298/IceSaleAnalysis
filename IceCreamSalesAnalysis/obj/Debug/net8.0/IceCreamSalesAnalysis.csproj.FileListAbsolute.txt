@@ -1,0 +1,14 @@
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\bin\Debug\net8.0\IceCreamSalesAnalysis.exe
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\bin\Debug\net8.0\IceCreamSalesAnalysis.deps.json
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\bin\Debug\net8.0\IceCreamSalesAnalysis.runtimeconfig.json
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\bin\Debug\net8.0\IceCreamSalesAnalysis.dll
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\bin\Debug\net8.0\IceCreamSalesAnalysis.pdb
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\obj\Debug\net8.0\IceCreamSalesAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\obj\Debug\net8.0\IceCreamSalesAnalysis.AssemblyInfoInputs.cache
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\obj\Debug\net8.0\IceCreamSalesAnalysis.AssemblyInfo.cs
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\obj\Debug\net8.0\IceCreamSalesAnalysis.csproj.CoreCompileInputs.cache
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\obj\Debug\net8.0\IceCreamSalesAnalysis.dll
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\obj\Debug\net8.0\refint\IceCreamSalesAnalysis.dll
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\obj\Debug\net8.0\IceCreamSalesAnalysis.pdb
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\obj\Debug\net8.0\IceCreamSalesAnalysis.genruntimeconfig.cache
+D:\Prince\Test\IceCreamSalesAnalysis\IceCreamSalesAnalysis\obj\Debug\net8.0\ref\IceCreamSalesAnalysis.dll
